@@ -18,7 +18,4 @@ background-color: #c876ff;
     font-size:20px;
     background-size: 500%;
  }
-button{
-    font-size:50px;
-    background-size: 1000%;
- }
+<input type="Button" style="width:90;height:10" value="Pesquisar">
